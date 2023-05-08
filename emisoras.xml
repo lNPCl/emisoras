@@ -1,0 +1,22 @@
+<radio-stations>
+  <station>
+    <name>Radio Queen</name>
+    <url>https://sonic.sistemahost.es/8116/stream</url>
+  </station>
+  <station>
+    <name>Radio Activa</name>
+ <url>https://stream9.mexiserver.com:7014/;stream.mp3</url>
+  </station>
+  <station>
+    <name>Radio Dj Maria</name>
+ <url>https://stream-017.zeno.fm/0b8matuckfhvv?zs=OKYb8xtRQI6MWVGXnYd65Q</url>
+  </station>  
+<station>
+    <name>Radio Jana</name>
+ <url>http://stream-049.zeno.fm/wxvy22bzzuhvv?zs=T6gel2y4T_KKdNZo3ql1hA</url>
+  </station>
+  <station>
+    <name>Radio Complot</name>
+ <url>http://65.108.197.21:8018/;stream;</url>
+  </station>
+</radio-stations>
